@@ -1,0 +1,8 @@
+# Safety: this public repo only holds lesson code and notes.
+# Everything is ignored except Python files, Markdown and text files.
+*
+!*/
+!.gitignore
+!*.py
+!*.md
+!*.txt
