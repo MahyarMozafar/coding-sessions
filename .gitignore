@@ -6,3 +6,6 @@
 !*.py
 !*.md
 !*.txt
+
+# private notes for Claude Code sessions
+CLAUDE.local.md
