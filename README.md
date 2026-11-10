@@ -13,7 +13,6 @@ This repo has the **code of every session**, so you can copy it and run it yours
 ## Follow
 
 - 📷 Instagram (Persian): [@code.with.mahyar](https://www.instagram.com/code.with.mahyar/)
-- 📷 Instagram (English): [@code.with.jesus](https://www.instagram.com/code.with.jesus/)
 - ▶️ YouTube: _coming soon_
 - 🎵 TikTok: _coming soon_
 - 🌐 Website: [mahyarmozafar.ir](https://mahyarmozafar.ir)
@@ -41,7 +40,6 @@ This repo has the **code of every session**, so you can copy it and run it yours
 ## ما را دنبال کن
 
 - 📷 اینستاگرام (فارسی): ⁦[@code.with.mahyar](https://www.instagram.com/code.with.mahyar/)⁩
-- 📷 اینستاگرام (انگلیسی): ⁦[@code.with.jesus](https://www.instagram.com/code.with.jesus/)⁩
 - ▶️ یوتیوب: به‌زودی
 - 🎵 تیک‌تاک: به‌زودی
 - 🌐 وب‌سایت: ⁦[mahyarmozafar.ir](https://mahyarmozafar.ir)⁩
