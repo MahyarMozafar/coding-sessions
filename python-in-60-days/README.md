@@ -1,7 +1,7 @@
 # 🐍 Python in 60 Days
 
 One short video every day: **one small idea + one small exercise**.
-🛠 = mini project · 🏁 = final project
+🛠 = mini project · 🏁 = final project · 🎁 = bonus day
 
 **How every day works**
 - Each video starts by showing the finished result, then shows how it's made.
@@ -37,52 +37,53 @@ You need: **Python** + **VS Code** (we install them together on Day 1).
 | 20 | 🛠 Multiplication table | — |
 | | **Phase 3: Lists and dictionaries** | |
 | 21 | Lists (slicing works here too) | Your top 5 movies |
-| 22 | List methods: `append` `remove` `pop` `sort` | Edit your movie list |
-| 23 | Loop over lists, `len`, `in` | Shopping list |
-| 24 | `enumerate` and `zip` | Numbered list; names + scores side by side |
-| 25 | Tuples and sets | Remove duplicates from a list |
-| 26 | Dictionaries | A small word dictionary |
-| 27 | Loop over dictionaries | Letter counter |
-| 28 | Lists of dictionaries | Student grade book |
-| 29 | List comprehension (the simple form) | Rewrite 3 old loops in one line each |
-| 30 | 🛠 Contact book (with a menu) | — |
+| 22 | List methods: `append` and `remove` | Add one movie to your list and remove one |
+| 23 | List methods: `sort` and `pop` | `pop()` with no number: who leaves the queue? |
+| 24 | Loop over lists, `len`, `in` | Shopping list |
+| 25 | `enumerate` and `zip` | Numbered list; names + scores side by side |
+| 26 | Tuples and sets | Remove duplicates from a list |
+| 27 | Dictionaries | A small word dictionary |
+| 28 | Loop over dictionaries | Letter counter |
+| 29 | Lists of dictionaries | Student grade book |
+| 30 | List comprehension (the simple form) | Rewrite 3 old loops in one line each |
+| 31 | 🛠 Contact book (with a menu) | — |
 | | **Phase 4: Functions and errors** | |
-| 31 | Functions: `def` | A greeting function |
-| 32 | Parameters and arguments | Area calculator |
-| 33 | `return` | Unit converter |
-| 34 | Default values and scope | Tip calculator |
-| 35 | Built-ins: `min` `max` `sum` `sorted` `round` | Stats for your scores |
-| 36 | Modules: `math` and `random` | Dice roller |
-| 37 | 🛠 Number guessing game | — |
-| 38 | Reading error messages | Fix 3 broken snippets |
-| 39 | `try / except` | Crash-proof calculator |
+| 32 | Functions: `def` | A greeting function |
+| 33 | Parameters and arguments | Area calculator |
+| 34 | `return` | Unit converter |
+| 35 | Default values and scope | Tip calculator |
+| 36 | Built-ins: `min` `max` `sum` `sorted` `round` | Stats for your scores |
+| 37 | Modules: `math` and `random` | Dice roller |
+| 38 | 🛠 Number guessing game | — |
+| 39 | Reading error messages | Fix 3 broken snippets |
+| 40 | `try / except` | Crash-proof calculator |
 | | **Phase 5: Files** | |
-| 40 | Write a file | Save a diary note |
-| 41 | Read a file, `with open` | Read your notes back |
-| 42 | `split` and `join` | Word counter for a text file |
-| 43 | Sorting with `key` and `lambda` | Leaderboard |
-| 44 | CSV files | Totals and averages |
-| 45 | 🛠 To-do list saved to a file | — |
+| 41 | Write a file | Save a diary note |
+| 42 | Read a file, `with open` | Read your notes back |
+| 43 | `split` and `join` | Word counter for a text file |
+| 44 | Sorting with `key` and `lambda` | Leaderboard |
+| 45 | CSV files | Totals and averages |
+| 46 | 🛠 To-do list saved to a file | — |
 | | **Phase 6: Real-world tools** | |
-| 46 | `pip` and packages | Install a package and use it |
-| 47 | Dates and time: `datetime` | Days until your birthday |
-| 48 | JSON | Save the contact book as JSON |
-| 49 | Data from the internet: `requests` | Quote of the day |
-| 50 | 🛠 Expense tracker saved as JSON | — |
+| 47 | `pip` and packages | Install a package and use it |
+| 48 | Dates and time: `datetime` | Days until your birthday |
+| 49 | JSON | Save the contact book as JSON |
+| 50 | Data from the internet: `requests` | Quote of the day |
+| 51 | 🛠 Expense tracker saved as JSON | — |
 | | **Phase 7: Classes** | |
-| 51 | Classes and objects | A Book class |
-| 52 | `__init__` and attributes | A Person with a name and age |
-| 53 | Methods and `self` | Deposit and withdraw |
-| 54 | Inheritance | Student extends Person |
-| 55 | 🛠 Bank account class | — |
+| 52 | Classes and objects | A Book class |
+| 53 | `__init__` and attributes | A Person with a name and age |
+| 54 | Methods and `self` | Deposit and withdraw |
+| 55 | Inheritance | Student extends Person |
+| 56 | 🛠 Bank account class | — |
 | | **Phase 8: Finish like a pro** | |
-| 56 | Clean code: names, docstrings, type hints | Clean up one of your old projects |
-| 57 | 🏁 Quiz game 1: questions saved in JSON | — |
-| 58 | 🏁 Quiz game 2: the game loop and the score | — |
-| 59 | 🏁 Quiz game 3: high scores saved to a file | — |
-| 60 | 🏁 The finished quiz game on GitHub + graduation: what you learned and what's next | — |
+| 57 | Clean code: names, docstrings, type hints | Clean up one of your old projects |
+| 58 | 🏁 Quiz game 1: questions saved in JSON | — |
+| 59 | 🏁 Quiz game 2: the game loop and the score | — |
+| 60 | 🏁 Quiz game 3: high scores saved to a file | — |
+| 61 | 🎁 Bonus: the finished quiz game on GitHub + graduation: what you learned and what's next | — |
 
-After Day 60: **Python Level 2** (regex, generators, decorators, web scraping, pandas, charts, testing) and new languages.
+After the course: **Python Level 2** (regex, generators, decorators, web scraping, pandas, charts, testing) and new languages.
 
 ---
 
@@ -91,7 +92,7 @@ After Day 60: **Python Level 2** (regex, generators, decorators, web scraping, p
 # 🐍 پایتون در 60 روز
 
 هر روز یک ویدیوی کوتاه: **یک ایده‌ی کوچک + یک تمرین کوچک**.
-🛠 = پروژه‌ی کوچک · 🏁 = پروژه‌ی نهایی
+🛠 = پروژه‌ی کوچک · 🏁 = پروژه‌ی نهایی · 🎁 = روز بونوس
 
 **هر روز چطور پیش می‌ره**
 - هر ویدیو اول نتیجه‌ی نهایی رو نشون می‌ده، بعد طرز ساختنش رو.
@@ -127,51 +128,52 @@ After Day 60: **Python Level 2** (regex, generators, decorators, web scraping, p
 | 20 | 🛠 جدول ضرب | — |
 | | **بخش 3: لیست و دیکشنری** | |
 | 21 | لیست‌ها (برش اینجا هم کار می‌کنه) | 5 فیلم محبوبت |
-| 22 | متدهای لیست: ⁦`append`⁩ ⁦`remove`⁩ ⁦`pop`⁩ ⁦`sort`⁩ | لیست فیلم‌هات رو ویرایش کن |
-| 23 | حلقه روی لیست، ⁦`len`⁩ و ⁦`in`⁩ | لیست خرید |
-| 24 | ⁦`enumerate`⁩ و ⁦`zip`⁩ | لیست شماره‌دار؛ اسم‌ها کنار امتیازها |
-| 25 | تاپل و مجموعه (⁦`set`⁩) | حذف تکراری‌ها از لیست |
-| 26 | دیکشنری‌ها | یک لغت‌نامه‌ی کوچک |
-| 27 | حلقه روی دیکشنری | شمارنده‌ی حروف |
-| 28 | لیستی از دیکشنری‌ها | دفتر نمره‌ی دانش‌آموزها |
-| 29 | ⁦`list comprehension`⁩ (شکل ساده) | 3 حلقه‌ی قدیمی رو یک‌خطی کن |
-| 30 | 🛠 دفترچه تلفن (با منو) | — |
+| 22 | متدهای لیست: ⁦`append`⁩ و ⁦`remove`⁩ | یه فیلم به لیستت اضافه کن و یکی رو حذف کن |
+| 23 | متدهای لیست: ⁦`sort`⁩ و ⁦`pop`⁩ | ⁦`pop()`⁩ بدون عدد: کی از صف می‌ره؟ |
+| 24 | حلقه روی لیست، ⁦`len`⁩ و ⁦`in`⁩ | لیست خرید |
+| 25 | ⁦`enumerate`⁩ و ⁦`zip`⁩ | لیست شماره‌دار؛ اسم‌ها کنار امتیازها |
+| 26 | تاپل و مجموعه (⁦`set`⁩) | حذف تکراری‌ها از لیست |
+| 27 | دیکشنری‌ها | یک لغت‌نامه‌ی کوچک |
+| 28 | حلقه روی دیکشنری | شمارنده‌ی حروف |
+| 29 | لیستی از دیکشنری‌ها | دفتر نمره‌ی دانش‌آموزها |
+| 30 | ⁦`list comprehension`⁩ (شکل ساده) | 3 حلقه‌ی قدیمی رو یک‌خطی کن |
+| 31 | 🛠 دفترچه تلفن (با منو) | — |
 | | **بخش 4: تابع‌ها و خطاها** | |
-| 31 | تابع‌ها: ⁦`def`⁩ | تابع سلام |
-| 32 | پارامتر و آرگومان | محاسبه‌ی مساحت |
-| 33 | برگرداندن مقدار با ⁦`return`⁩ | تبدیل واحد |
-| 34 | مقدار پیش‌فرض و محدوده | ماشین‌حساب انعام |
-| 35 | توابع آماده: ⁦`min`⁩ ⁦`max`⁩ ⁦`sum`⁩ ⁦`sorted`⁩ ⁦`round`⁩ | آمار نمره‌هات |
-| 36 | ماژول‌ها: ⁦`math`⁩ و ⁦`random`⁩ | تاس انداختن |
-| 37 | 🛠 بازی حدس عدد | — |
-| 38 | خواندن پیام خطا | 3 کد خراب رو درست کن |
-| 39 | مدیریت خطا با ⁦`try / except`⁩ | ماشین‌حساب ضدخطا |
+| 32 | تابع‌ها: ⁦`def`⁩ | تابع سلام |
+| 33 | پارامتر و آرگومان | محاسبه‌ی مساحت |
+| 34 | برگرداندن مقدار با ⁦`return`⁩ | تبدیل واحد |
+| 35 | مقدار پیش‌فرض و محدوده | ماشین‌حساب انعام |
+| 36 | توابع آماده: ⁦`min`⁩ ⁦`max`⁩ ⁦`sum`⁩ ⁦`sorted`⁩ ⁦`round`⁩ | آمار نمره‌هات |
+| 37 | ماژول‌ها: ⁦`math`⁩ و ⁦`random`⁩ | تاس انداختن |
+| 38 | 🛠 بازی حدس عدد | — |
+| 39 | خواندن پیام خطا | 3 کد خراب رو درست کن |
+| 40 | مدیریت خطا با ⁦`try / except`⁩ | ماشین‌حساب ضدخطا |
 | | **بخش 5: فایل‌ها** | |
-| 40 | نوشتن در فایل | یادداشت روزانه ذخیره کن |
-| 41 | خواندن فایل با ⁦`with open`⁩ | یادداشت‌هات رو بخون |
-| 42 | ⁦`split`⁩ و ⁦`join`⁩ | شمردن کلمه‌های یک فایل متنی |
-| 43 | مرتب‌سازی با ⁦`key`⁩ و ⁦`lambda`⁩ | جدول امتیازها |
-| 44 | فایل‌های ⁦`CSV`⁩ | جمع و میانگین |
-| 45 | 🛠 لیست کارها با ذخیره در فایل | — |
+| 41 | نوشتن در فایل | یادداشت روزانه ذخیره کن |
+| 42 | خواندن فایل با ⁦`with open`⁩ | یادداشت‌هات رو بخون |
+| 43 | ⁦`split`⁩ و ⁦`join`⁩ | شمردن کلمه‌های یک فایل متنی |
+| 44 | مرتب‌سازی با ⁦`key`⁩ و ⁦`lambda`⁩ | جدول امتیازها |
+| 45 | فایل‌های ⁦`CSV`⁩ | جمع و میانگین |
+| 46 | 🛠 لیست کارها با ذخیره در فایل | — |
 | | **بخش 6: ابزارهای دنیای واقعی** | |
-| 46 | ⁦`pip`⁩ و پکیج‌ها | یک پکیج نصب کن و ازش استفاده کن |
-| 47 | تاریخ و زمان: ⁦`datetime`⁩ | چند روز تا تولدت مونده |
-| 48 | ذخیره‌ی داده با ⁦`JSON`⁩ | دفترچه تلفن رو ⁦`JSON`⁩ ذخیره کن |
-| 49 | داده از اینترنت با ⁦`requests`⁩ | جمله‌ی روز |
-| 50 | 🛠 ثبت خرج‌ها با ⁦`JSON`⁩ | — |
+| 47 | ⁦`pip`⁩ و پکیج‌ها | یک پکیج نصب کن و ازش استفاده کن |
+| 48 | تاریخ و زمان: ⁦`datetime`⁩ | چند روز تا تولدت مونده |
+| 49 | ذخیره‌ی داده با ⁦`JSON`⁩ | دفترچه تلفن رو ⁦`JSON`⁩ ذخیره کن |
+| 50 | داده از اینترنت با ⁦`requests`⁩ | جمله‌ی روز |
+| 51 | 🛠 ثبت خرج‌ها با ⁦`JSON`⁩ | — |
 | | **بخش 7: کلاس‌ها** | |
-| 51 | کلاس و شیء | کلاس کتاب |
-| 52 | ⁦`__init__`⁩ و ویژگی‌ها | کلاس آدم با اسم و سن |
-| 53 | متدها و ⁦`self`⁩ | واریز و برداشت |
-| 54 | ارث‌بری | دانش‌آموز از آدم ارث می‌بره |
-| 55 | 🛠 کلاس حساب بانکی | — |
+| 52 | کلاس و شیء | کلاس کتاب |
+| 53 | ⁦`__init__`⁩ و ویژگی‌ها | کلاس آدم با اسم و سن |
+| 54 | متدها و ⁦`self`⁩ | واریز و برداشت |
+| 55 | ارث‌بری | دانش‌آموز از آدم ارث می‌بره |
+| 56 | 🛠 کلاس حساب بانکی | — |
 | | **بخش 8: پایان حرفه‌ای** | |
-| 56 | کد تمیز: اسم‌ها، ⁦`docstring`⁩ و ⁦`type hint`⁩ | یکی از پروژه‌های قدیمی‌ات رو تمیز کن |
-| 57 | 🏁 بازی کوییز 1: سؤال‌ها در ⁦`JSON`⁩ | — |
-| 58 | 🏁 بازی کوییز 2: حلقه‌ی بازی و امتیاز | — |
-| 59 | 🏁 بازی کوییز 3: رکوردها در فایل | — |
-| 60 | 🏁 بازی کوییز کامل روی گیت‌هاب + جشن پایان: چی یاد گرفتی و قدم بعدی | — |
+| 57 | کد تمیز: اسم‌ها، ⁦`docstring`⁩ و ⁦`type hint`⁩ | یکی از پروژه‌های قدیمی‌ات رو تمیز کن |
+| 58 | 🏁 بازی کوییز 1: سؤال‌ها در ⁦`JSON`⁩ | — |
+| 59 | 🏁 بازی کوییز 2: حلقه‌ی بازی و امتیاز | — |
+| 60 | 🏁 بازی کوییز 3: رکوردها در فایل | — |
+| 61 | 🎁 بونوس: بازی کوییز کامل روی گیت‌هاب + جشن پایان: چی یاد گرفتی و قدم بعدی | — |
 
-بعد از روز 60: **پایتون سطح 2** و زبان‌های برنامه‌نویسی دیگه.
+بعد از این دوره: **پایتون سطح 2** و زبان‌های برنامه‌نویسی دیگه.
 
 </div>
